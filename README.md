@@ -1,2 +1,4 @@
 I've spent the past few days developing landing pages. What makes this project different is the fact that I used javascript to ensure that the navbar becomes fixed after the page is scrolled past a certain height. I also incorporated an option of moving back to the top of the webpage on the click of a "top-link" I designed with css animation. So basically, I picked up css animation and also got to flex my javascript skills.
-I would like to appreciate frontend mentor for providing the files used in this project 
+I would like to appreciate frontend mentor for providing the files used in this project. I took into cognizance the responisveness of the webpage in different screen sizes even though the challenge just considered two screen sizes. I also stepped the project up a notch.
+The link to the challenge can be found below
+https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef

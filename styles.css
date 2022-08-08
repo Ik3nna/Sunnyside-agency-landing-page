@@ -480,6 +480,9 @@ footer a:first-child {
         line-height: 1.5;
         margin-bottom: 20px;
     }
+    .testimonials .thomas p {
+        height: 90px !important;
+    }
     .testimonials .position {
         margin: 10px 0 50px;
     }
@@ -566,8 +569,11 @@ footer a:first-child {
         grid-row: 1;
         height: 80%;
     }
-    #two, #four {
-        height: 250px;
+    #two {
+        height: 300px;
+    }
+    #four {
+        height: 350px;
     }
     #three {
         height: 80%;

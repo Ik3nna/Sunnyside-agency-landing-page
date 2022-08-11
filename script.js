@@ -21,6 +21,11 @@ window.addEventListener("scroll", function () {
     } else {
         toplink.classList.remove("show-link");
     }
+
+    if (wrapper.classList.contains("active")) {
+        wrapper.classList.remove("fixed-nav");
+        toplink.classList.remove("show-link");
+    }
 });
 
 menu.addEventListener("click", function () {
